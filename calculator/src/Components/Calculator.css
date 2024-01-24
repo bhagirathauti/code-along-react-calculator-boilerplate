@@ -1,0 +1,9 @@
+.buttonContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.display{
+    background-color: black;
+    height: 30px;
+    color: white;
+}
